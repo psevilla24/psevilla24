@@ -1,4 +1,4 @@
-# Hello, I'm P.A! 
+# Hello, I'm P.A.! 
 <a href="https://www.linkedin.com/in/percinette-alfaro-0192962b0">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
